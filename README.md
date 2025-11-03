@@ -144,15 +144,6 @@ Engenheiro Civil explorando a interseção entre construção civil e tecnologia
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ReiJardim&theme=algolia&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues" alt="GitHub Achievements" />
-
-</div>
 
 ---
 
