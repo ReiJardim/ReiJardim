@@ -1,13 +1,18 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Rei Jardim
+<!-- Banner de Realeza -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👑%20Rei%20Jardim%20👑&fontSize=50&fontColor=FFD700&animation=twinkling&fontAlignY=32"/>
 
-### Engenheiro Civil | Desenvolvedor Python | Entusiasta de IA
+### 🏗️ Engenheiro Civil | 🐍 Desenvolvedor Python | 🤖 Entusiasta de IA
 
 📍 Salvador, Bahia - Brasil
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReiJardim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rei-jardim-18b989180/)
+<!-- Badges Personalizados com Tema Real -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=2d1b69)](https://github.com/ReiJardim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=2d1b69)](https://www.linkedin.com/in/rei-jardim-18b989180/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=2d1b69)](mailto:reijardim.eng.civil@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ReiJardim&color=FFD700&style=for-the-badge&label=VISITAS+DO+REINO)
 
 </div>
 
@@ -44,47 +49,90 @@ Engenheiro Civil explorando a interseção entre construção civil e tecnologia
 </div>
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Arsenal de Tecnologias
 
-### Linguagens
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🐍 Linguagens & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Web Scraping
+</td>
+<td align="center" width="50%">
+
+**🤖 IA & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**📊 Data Science & Análise**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
+![PyVista](https://img.shields.io/badge/PyVista-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td align="center">
+
+**🕸️ Web Scraping**
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Browser Use](https://img.shields.io/badge/Browser_Use-FF6C37?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### Data Science & Análise
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
-![PyVista](https://img.shields.io/badge/PyVista-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</td>
+</tr>
 
-### IA & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<tr>
+<td align="center">
 
-### Ferramentas CAD & Modelagem 3D
+**🎨 CAD & Modelagem 3D**
+
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-EA4335?style=for-the-badge&logo=freecad&logoColor=white)
 
-### Geoprocessamento
+</td>
+<td align="center">
+
+**🌍 Geoprocessamento**
+
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 
-### Desenvolvimento
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+**🛠️ Ferramentas de Desenvolvimento**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -93,6 +141,16 @@ Engenheiro Civil explorando a interseção entre construção civil e tecnologia
 <div align="center">
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ReiJardim&bg_color=0d1117&color=FFD700&line=FFD700&point=c9d1d9&area=true&hide_border=true&title_color=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Troféus Reais
+
+<div align="center">
+
+  ![Troféus](https://github-profile-trophy.vercel.app/?username=ReiJardim&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)
 
 </div>
 
@@ -113,10 +171,14 @@ interesses = {
 
 ---
 
+
+### 👑 *"Construindo o futuro, um commit de cada vez"* 👑
+
+---
+
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ReiJardim&color=blueviolet&style=for-the-badge)
-
-  ### ⭐ Fique à vontade para explorar meus repositórios e contribuir!
+<!-- Rodapé com tema real -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
