@@ -146,11 +146,11 @@ Engenheiro Civil explorando a interseção entre construção civil e tecnologia
 
 ---
 
-## 🏆 Troféus Reais
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-  ![Troféus](https://github-profile-trophy.vercel.app/?username=ReiJardim&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)
+  <img src="https://github-profile-trophy.vercel.app/?username=ReiJardim&theme=algolia&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues" alt="GitHub Achievements" />
 
 </div>
 
