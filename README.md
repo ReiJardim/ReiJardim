@@ -98,18 +98,6 @@ Engenheiro Civil explorando a interseção entre construção civil e tecnologia
 
 ---
 
-## 👑 King Snake - Contribuições
-
-<div align="center">
-
-  ![King Snake animation](https://raw.githubusercontent.com/ReiJardim/ReiJardim/output/github-contribution-grid-snake-dark.svg)
-
-  <sub>🐍 A cobra dourada comendo suas contribuições!</sub>
-
-</div>
-
----
-
 ## 💡 Áreas de Interesse
 
 ```python
